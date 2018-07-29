@@ -1,2 +1,4 @@
 # Example Repository
-Hello World, This is a saample and example repository
+Hello World, This is a sample and example repository
+
+Hi this is my second change to this repo
